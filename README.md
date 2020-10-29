@@ -2,8 +2,16 @@
 
 ## Nagłówki
 ```
-# The largest heading
-## The second largest heading
-###### The smallest heading
+# Największy
+## Mniejszy
+### 
+####
+#####
+###### Najmniejszy
 ```
+## Stylizacja
+- **Pogrubienie**   ``` **tekst** __tekst__ ```
+- *Pochylenie*      ```  *tekst*   _tekst_  ```
+- ~~Przekreślenie~~ ``` ~~tekst~~ ```
+
 
